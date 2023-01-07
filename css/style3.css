@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap");
+body {
+  font-family: "Crimson Text", serif;
+  background-color: black;
+  text-align: center;
+  color: aliceblue;
+}
+.img {
+  height: 50px;
+  margin: 0px 20px;
+}
+.footer {
+  background-color: rgb(255, 255, 255);
+  border: 1px solid rgb(255, 255, 255);
+  padding: 20px;
+  border-radius: 20px;
+  margin: 20px 0px;
+  margin-top: 200px;
+  color: black;
+  font-weight: bold;
+}
+a {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}
